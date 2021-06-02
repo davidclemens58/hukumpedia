@@ -1,0 +1,15 @@
+{
+  "name": "test-rule",
+  "version": "1.0.0",
+  "description": "This is test-rule of the Hukumpedia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "David - IT",
+  "license": "-",
+  "dependencies": {
+    "csv-parse": "^4.4.5"
+  }
+}
